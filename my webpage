@@ -1,0 +1,57 @@
+<!DOCTYPE html >
+<html lang="zh-TW" style="background-color: rgb(0, 0, 0);">
+    <head>
+        <title>Sharon's ~ #.+*:</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="love.css">
+    </head>
+    <body>
+        <span class="B">
+            Hi.there.~.It's.Sharon's.webpage!~.#.+*:
+        </span>
+        <div class="all">
+            <span class="C">
+                <a href="https://eclass2.nttu.edu.tw/dashboard"><img src="8.png" border="0"></a>
+                    <div class="text">▲ NTTU e-Class</div>
+            </span>
+            <span class="C">
+                <a href="https://www.netflix.com/browse"><img src="0.png" border="0"></a>
+                <div class="text">▲ Netflix</div> 
+            </span>
+            <span class="C">
+                <a href="https://www.youtube.com/"><img src="1.png" border="0"></a>
+                <div class="text">▲ YouTube</div> 
+            </span>
+            <span class="C">
+                <a href="https://music.apple.com/tw/browse"><img src="2.png" border="0"></a>
+                <div class="text">▲ Apple Music</div> 
+            </span>
+            <span class="C">
+                <a href="https://www.netacad.com/"><img src="3.png" border="0"></a>
+                <div class="text">▲ Cisco</div> 
+            </span>
+            <span class="C">
+                <a href="https://portal.itsa.org.tw/login/?from=etutor"><img src="4.png" border="0"></a>
+                <div class="text">▲ E-Tutor</div> 
+            </span>
+            <span class="C">
+                <a href="https://www.facebook.com/groups/250060301796005"><img src="5.png" border="0"></a>
+                <div class="text">▲ Digital Design FB</div> 
+            </span>
+            <span class="C">
+                <a href="https://a-b.notion.site/"><img src="6.png" border="0"></a>
+                <div class="text">▲ Programming</div> 
+            </span>
+            <span class="C">
+                <a href="https://www.google.com"><img src="7.png" border="0"></a>
+                <div class="text">▲ Google</div> 
+            </span>
+            <span class="C">
+                <a href="https://www.google.com"><img src="9.png" border="0"></a>
+                <div class="text">▲ Nothing</div> 
+            </span>
+            <br><br><br>
+        </div>
+         
+    </body>
+</html>
