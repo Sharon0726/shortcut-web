@@ -1,1 +1,1 @@
-#No picture because of the copyright
+# No picture because of the copyright
